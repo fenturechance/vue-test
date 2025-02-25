@@ -1,0 +1,7 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`ImageGallery > renders correctly 1`] = `
+"<img src="https://placehold.co/600x400">
+<img src="https://placehold.co/600x400/orange">
+<img src="https://placehold.co/600x400?text=Image+3">"
+`;
